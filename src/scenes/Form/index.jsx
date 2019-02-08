@@ -26,7 +26,7 @@ class Form extends Component {
     this.setState({
       name: '',
       content: '',
-      link: null,
+      link: '',
       picsSrc: '',
       year: 1
     });
